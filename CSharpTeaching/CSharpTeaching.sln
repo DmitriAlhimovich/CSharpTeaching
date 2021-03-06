@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTeaching", "CSharpTea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanCalculator", "..\LoanCalculator\LoanCalculator.csproj", "{710C551E-B36C-4542-B78A-CC0020DF89B5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTask5", "..\HomeTask5\HomeTask5.csproj", "{7AF6835E-6153-472E-BBCB-E3FD1085B63B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTask5.Tests", "..\HomeTask5.Tests\HomeTask5.Tests.csproj", "{85978925-BF40-4A70-958A-33739BE36FB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{710C551E-B36C-4542-B78A-CC0020DF89B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{710C551E-B36C-4542-B78A-CC0020DF89B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{710C551E-B36C-4542-B78A-CC0020DF89B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF6835E-6153-472E-BBCB-E3FD1085B63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF6835E-6153-472E-BBCB-E3FD1085B63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF6835E-6153-472E-BBCB-E3FD1085B63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF6835E-6153-472E-BBCB-E3FD1085B63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85978925-BF40-4A70-958A-33739BE36FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85978925-BF40-4A70-958A-33739BE36FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85978925-BF40-4A70-958A-33739BE36FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85978925-BF40-4A70-958A-33739BE36FB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
