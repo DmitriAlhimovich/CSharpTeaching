@@ -1,2 +1,9 @@
 bin/**
 obj/**
+/CSharpTeaching/CSharpTeaching/bin/Debug/netcoreapp3.1
+/CSharpTeaching/CSharpTeaching/obj
+/LoanCalculator/bin/Debug/netcoreapp3.1
+/LoanCalculator/obj/Debug/netcoreapp3.1
+/LoanCalculator/obj/Release/netcoreapp3.1
+/CSharpTeaching/.vs/CSharpTeaching/v16
+/.vs/CSharpTeaching/v16
