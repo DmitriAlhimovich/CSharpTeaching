@@ -11,3 +11,5 @@ obj/**
 /HomeTask5/obj
 /HomeTask5.Tests/bin/Debug/netcoreapp3.1
 /HomeTask5.Tests/obj
+/StudentsApp/bin/Debug/netcoreapp3.1
+/StudentsApp/obj
