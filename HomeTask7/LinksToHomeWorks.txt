@@ -5,3 +5,5 @@ https://github.com/Fyodor-Z/HomeWork7
 https://github.com/AndreyErmolkin/HomeWork_7
 
 https://github.com/Olya31/Homework_7
+
+https://github.com/AndreyErmolkin/HW_7/blob/master/HW_7/Program.cs
