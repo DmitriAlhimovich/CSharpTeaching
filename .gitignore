@@ -15,3 +15,6 @@ obj/**
 /StudentsApp/obj
 *.v2
 /HomeTask7/obj
+/HomeTask7/bin/Debug/netcoreapp3.1
+/StudentManagementApp/bin/Debug/netcoreapp3.1
+/StudentManagementApp/obj
