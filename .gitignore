@@ -19,3 +19,5 @@ obj/**
 /StudentManagementApp/bin/Debug/netcoreapp3.1
 /StudentManagementApp/obj
 /Delegates/obj
+/SendEmailsSeparately/bin/Debug/netcoreapp3.1
+/SendEmailsSeparately/obj
