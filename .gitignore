@@ -21,3 +21,5 @@ obj/**
 /Delegates/obj
 /SendEmailsSeparately/bin/Debug/netcoreapp3.1
 /SendEmailsSeparately/obj
+/FormulaParser/bin/Debug/netcoreapp3.1
+/FormulaParser/obj
