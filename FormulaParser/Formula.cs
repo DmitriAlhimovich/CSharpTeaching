@@ -44,13 +44,13 @@ namespace FormulaParser
             {
                 operand2 = GetOperandValue(operandsList[i + 1]);
 
-                operand1 = Calculate(operand1, operand2, operatorsList[i]);
+                operand1 = CalculateOperation(operand1, operand2, operatorsList[i]);
             }
 
             return operand1;
         }
 
-        public double Calculate(double operand1, double operand2, char @operator)
+        private double CalculateOperation(double operand1, double operand2, char @operator)
         {
             return @operator switch
             {
