@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendEmailsSeparately", "SendEmailsSeparately\SendEmailsSeparately.csproj", "{5B3EB951-0B85-43DE-B9BD-E3922F96A176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaParser", "FormulaParser\FormulaParser.csproj", "{5A59DA5E-54EC-4821-9F79-CB032F9D605D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaParser", "FormulaParser\FormulaParser.csproj", "{5A59DA5E-54EC-4821-9F79-CB032F9D605D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{58526A0F-129D-4B50-9D66-15CD24F8A832}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{5A59DA5E-54EC-4821-9F79-CB032F9D605D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A59DA5E-54EC-4821-9F79-CB032F9D605D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A59DA5E-54EC-4821-9F79-CB032F9D605D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

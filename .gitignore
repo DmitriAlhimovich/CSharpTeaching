@@ -23,3 +23,5 @@ obj/**
 /SendEmailsSeparately/obj
 /FormulaParser/bin/Debug/netcoreapp3.1
 /FormulaParser/obj
+/GarbageCollector/bin/Debug/netcoreapp3.1
+/GarbageCollector/obj
