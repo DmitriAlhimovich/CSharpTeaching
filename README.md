@@ -17,11 +17,11 @@ public string Subject;
 public byte Value;
 }
 
-a. Create test set of data
-b. Select average mark for every student by subject
-c. Select average mark for every group by subject
-d. Select a subject for every student on which he/she has the best average mark
-e. Print table with best students by groups and subjects
+- Create test set of data
+- Select average mark for every student by subject
+- Select average mark for every group by subject
+- Select a subject for every student on which he/she has the best average mark
+- Print table with best students by groups and subjects
 
 2. Find words from given text that start and end with selected symbols (a,m => Amsterdam)
 3. For list of numbers show {number, number*frequency, frequency}
