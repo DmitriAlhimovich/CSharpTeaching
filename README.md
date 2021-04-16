@@ -19,7 +19,7 @@ public byte Value;
 
 - Create test set of data
 - Select average mark for every student by subject
-- Select average mark for every group by subject
+- Select average mark for every group by subject for previuos month
 - Select a subject for every student on which he/she has the best average mark
 - Print table with best students by groups and subjects
 
