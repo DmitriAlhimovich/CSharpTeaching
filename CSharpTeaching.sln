@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaParser", "FormulaPar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{58526A0F-129D-4B50-9D66-15CD24F8A832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{17773F84-AF32-4249-A862-18BAEBA120DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{17773F84-AF32-4249-A862-18BAEBA120DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{CACA7ED1-0016-4894-8DB0-4B5AB3C4B835}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{17773F84-AF32-4249-A862-18BAEBA120DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17773F84-AF32-4249-A862-18BAEBA120DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17773F84-AF32-4249-A862-18BAEBA120DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACA7ED1-0016-4894-8DB0-4B5AB3C4B835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACA7ED1-0016-4894-8DB0-4B5AB3C4B835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACA7ED1-0016-4894-8DB0-4B5AB3C4B835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACA7ED1-0016-4894-8DB0-4B5AB3C4B835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
