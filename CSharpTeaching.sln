@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaParser", "FormulaPar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{58526A0F-129D-4B50-9D66-15CD24F8A832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{1770C48C-B01F-48B9-A4C0-456E575BE3D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{17773F84-AF32-4249-A862-18BAEBA120DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,10 +71,10 @@ Global
 		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58526A0F-129D-4B50-9D66-15CD24F8A832}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1770C48C-B01F-48B9-A4C0-456E575BE3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1770C48C-B01F-48B9-A4C0-456E575BE3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1770C48C-B01F-48B9-A4C0-456E575BE3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1770C48C-B01F-48B9-A4C0-456E575BE3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17773F84-AF32-4249-A862-18BAEBA120DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17773F84-AF32-4249-A862-18BAEBA120DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17773F84-AF32-4249-A862-18BAEBA120DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17773F84-AF32-4249-A862-18BAEBA120DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -25,5 +25,7 @@ obj/**
 /FormulaParser/obj
 /GarbageCollector/bin/Debug/netcoreapp3.1
 /GarbageCollector/obj
+/LINQ/bin/Debug/netcoreapp3.1
+/LINQ/obj
 /MultiThreading/bin/Debug/netcoreapp3.1
 /MultiThreading/obj
