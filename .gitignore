@@ -29,3 +29,5 @@ obj/**
 /LINQ/obj
 /MultiThreading/bin/Debug/netcoreapp3.1
 /MultiThreading/obj
+/AsyncAwait/bin/Debug/netcoreapp3.1
+/AsyncAwait/obj
