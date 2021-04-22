@@ -9,8 +9,6 @@ namespace AsyncAwait.Models
 {
     public class Lesson
     {
-
-
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
         public Room Room { get; set; }
@@ -32,13 +30,10 @@ namespace AsyncAwait.Models
             }
 
             return result;
-
         }
 
         public Task<double> GetAverageAsync()
         {
-            
-
             return Task.Factory.StartNew(() =>
             {
                 return GetAverage();
