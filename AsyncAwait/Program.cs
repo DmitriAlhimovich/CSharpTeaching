@@ -15,7 +15,6 @@ namespace AsyncAwait
             SeedData.Seed(repository);
             SeedData.SeedLessons(repository);
 
-
             //Sync execution
             DateTime start = DateTime.Now;
 
@@ -31,9 +30,9 @@ namespace AsyncAwait
             double avgAsync = CalculateAvgAsync(repository);
             duration = (DateTime.Now - start).TotalMilliseconds;
 
-            Console.WriteLine($"Duration of Async execution (ms): {duration}, result = {avgAsync}");            
-            
-        }        
+            Console.WriteLine($"Duration of Async execution (ms): {duration}, result = {avgAsync}");
+
+        }
 
         private static double CalculateAvgSync(Repository repository)
         {
