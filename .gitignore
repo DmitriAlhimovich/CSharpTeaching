@@ -31,3 +31,5 @@ obj/**
 /MultiThreading/obj
 /AsyncAwait/bin/Debug/netcoreapp3.1
 /AsyncAwait/obj
+/Parallel/bin/Debug/netcoreapp3.1
+/Parallel/obj
