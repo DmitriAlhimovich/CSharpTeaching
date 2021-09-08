@@ -33,3 +33,5 @@ obj/**
 /AsyncAwait/obj
 /Parallel/bin/Debug/netcoreapp3.1
 /Parallel/obj
+/Polymorphism/bin/Debug/net5.0
+/Polymorphism/obj
